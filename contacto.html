@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Examen Clase</title>
+	<link rel="stylesheet" type="text/css" href="examenclase.css" media="screen" />
+</head>
+<body>
+<img align="left" width="50px" height="50px" class="logo" src="logo.png"> 
+<div class="nav">
+
+	<ul>
+	   <li><a href="inicio.html" title="Inicio">Inicio</a></li>
+	   <li><a href="comite.html" title="Comite Organizador">Comite Organizador</a></li>
+	   <li><a href="calendario.html" title="Calendario">Calendario</a></li>
+	   <li><a href="contacto.html" title="Contacto">Contacto</a></li>
+	</ul>
+</div>
+<div class="header">
+<h2>
+	Contactanos
+</h2>
+<table> 
+				<tr>
+					<td>
+					<h4> Nombre </h4>
+					<input type="text" name="NOMBRE" placeholder="Jesús" size="30"> <br> 
+					<h4> Apellidos </h4>
+					<input type="text" name="APELLIDOS" placeholder="Moreno Pérez" size="30">
+					<h4> Fecha nacimiento </h4>
+					<input type="date" name="bday"> 
+					 <form action="/datos.php"> 
+						<h4> Sexo </h4>
+						<input type="radio" name="gender" value="Hombre"> Hombre <br> 
+						<input type="radio" name="gender" value="Mujer"> Mujer <br>
+						<input type="radio" name="gender" value="otro"> Prefiero no decirlo <br>
+					</td>
+					<td>
+						<h4> Provincia </h4>
+						<select name="provincia"> 
+							<option value="malaga"> Malaga </option>
+							<option value="sevilla" selected> Sevilla </option> <!--La etiqueta selected sirve para que por defecto en la lista desplegable salga primero sevilla-->
+							<option value="granada"> Granada </option>
+							<option value="huelva"> Huelva </option>
+							<option value="cordoba"> Cordoba </option>
+							<option value="cadiz"> Cadiz </option>
+							<option value="almeria"> Almeria </option>
+						</select>
+					<br>
+					<br>
+					<textarea name="informacion" rows="10" cols="30" > Información que quiera añadir extra </textarea> <!--Textarea, es cuadro de texto por ejemplo para un comentario-->
+					<br> 
+					<br> Escriba su correo para recibir información actualizada   <input type="email" name="email"> <!--Type email, es un cuadro de texto para introducir un correo con su formato correcto-->
+					<h5> Suba su documento de identidad (DNI,NIF...) </h5>
+					 Seleccione un archivo: <input type="file" name="dni">
+					</td>
+				</tr>	 
+			</table>
+</div>
+<div class="footer">
+<tr>
+	<td> <img src="ganardor1_b.jpg" width="100px" height="100px" > </td>
+	<td> <img src="ganardor2_b.jpg" width="100px" height="100px" ></td>
+	<td> <img src="ganardor3_b.jpg" width="100px" height="100px" ></td>
+	<td> <img src="ganardor5_b.jpg" width="100px" height="100px" ></td>
+	<td> <img src="ganardor6_b.jpg" width="100px" height="100px" ></td>
+</tr>
+	<h3>
+		Competición realizada por Peterfega el pokemones. 
+	</h3>
+	</div>
+</body>
+</html>
