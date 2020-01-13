@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
+		<image>
+			<url>https://www.soyvisual.org/sites/default/files/styles/twitter_card/public/images/photos/dep_0001-p.jpg?itok=5IWgPHx5</url>
+   		</image>
 		<tittle> Noticias RSS Jesús </tittle>
 		<link> http://prueba321-mipagina.apps.us-west-1.starter.openshift-online.com </link>
 		<description> Pagina donde se ubica mi pagina </description>
@@ -21,6 +24,10 @@
 			<link> https://e00-marca.uecdn.es/rss/futbol/liga-italiana.xml </link>
 			<description> Noticias de la liga italiana de futbol </description>
 		</item>
+		<language> es <language>
+		<category> Noticias de Futbol <category>
+		<pubDate>Lunes, 13 Enero 2020</pubDate>
+		<lastBuildDate>Martes, 7 Apr 2020</lastBuildDate>
 	</channel>
 </rss>
 		
