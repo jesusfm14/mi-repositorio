@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+	<channel>
+		<tittle> Noticias RSS Jesús </tittle>
+		<author>
+			<name>Jesús</name>
+			<email>j.morenoperez@iesrodmarin.com </email>
+		</author>
+		<link> http://prueba321-mipagina.apps.us-west-1.starter.openshift-online.com/inicio.html </link>
+		<summary> 
+		<updated>Lunes, 13 Enero 2020</updated>
+	</channel>
+</feed>
