@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
-		<tittle> Noticias RSS Jesús </tittle>
-		<author>
-			<name>Jesús</name>
-			<email>j.morenoperez@iesrodmarin.com </email>
-		</author>
-		<link> http://prueba321-mipagina.apps.us-west-1.starter.openshift-online.com/inicio.html </link>
-		<summary> 
-		<updated>Lunes, 13 Enero 2020</updated>
+    <title type="text">Noticias Futbol ATOM</title>
+    <id>http://prueba321-mipagina.apps.us-west-1.starter.openshift-online.com/inicio.html</id>
+    <link rel="self" type="application/atom+xml" href="http://prueba321-mipagina.apps.us-west-1.starter.openshift-online.com/atom1.xml" /> <!--Pagina PHP Atom-->
+    <link rel="alternate" type="text/html" href="http://prueba321-mipagina.apps.us-west-1.starter.openshift-online.com/inicio.html"/> <!--Pagina PHP Principal-->
+    <updated>2020-01-14T11:20:46Z</updated>
+    <author>
+        <name>Jesús Moreno Pérez</name>
+        <email>j.morenoperez@iesrodmarin.com</email>
+    </author>
 </feed>
