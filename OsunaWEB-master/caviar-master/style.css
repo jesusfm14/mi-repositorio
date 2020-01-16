@@ -805,11 +805,11 @@ li {
 }
 
 .about-us-second-part:after {
-    content: 'About Us';
+    content: 'Sobre⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  nosotros';
     position: absolute;
     top: 110px;
     font-size: 150px;
-    left: 0;
+    left:-100px;
     color: rgba(0, 0, 0, 0.05);
     font-weight: 700;
     line-height: 1;
