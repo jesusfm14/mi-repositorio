@@ -3,9 +3,31 @@
     <id>http://prueba321-mipagina.apps.us-west-1.starter.openshift-online.com/inicio.html</id>
     <link rel="self" type="application/atom+xml" href="http://prueba321-mipagina.apps.us-west-1.starter.openshift-online.com/atom1.xml" /> <!--Pagina PHP Atom-->
     <link rel="alternate" type="text/html" href="http://prueba321-mipagina.apps.us-west-1.starter.openshift-online.com/inicio.html"/> <!--Pagina PHP Principal-->
+    <language>es</language>
+    <description>Donde tenemos el rss en web</description>
     <updated>2020-01-14T11:20:46Z</updated>
-    <author>
-        <name>Jesús Moreno Pérez</name>
-        <email>j.morenoperez@iesrodmarin.com</email>
-    </author>
+        <author>
+            <name>Jesús Moreno Pérez</name>
+            <email>j.morenoperez@iesrodmarin.com</email>
+        </author>
+    <entry>
+
+			<title> Noticias La Liga</title>
+			<id>https://www.marca.com/futbol/primera-division.html</id>
+			<link rel="alternate" type="text/html" href="https://www.marca.com/futbol/primera-division.html"/>
+			<description>Noticias de ultima hora primera liga</description>
+			<updated>21 Enero 2020, 10:45am</updated>
+			<summary>Futbol ultima hora</summary>
+
+	</entry>
+    <entry>
+
+			<title> Noticias La Liga Italiana</title>
+			<id>https://www.marca.com/futbol/liga-italiana.html</id>
+			<link rel="alternate" type="text/html" href="https://www.marca.com/futbol/liga-italiana.html"/>
+			<description>Noticias de ultima hora primera liga italiana</description>
+			<updated>21 Enero 2020, 10:58am</updated>
+			<summary>Futbol ultima hora</summary>
+
+	</entry>
 </feed>

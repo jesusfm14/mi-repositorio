@@ -8,4 +8,9 @@
         <name>Jesús Moreno Pérez</name>
         <email>j.morenoperez@iesrodmarin.com</email>
     </author>
+    <item> 
+			<tittle> Noticias La Liga </tittle>
+			<link> https://e00-marca.uecdn.es/rss/futbol/primera-division.xml </link>
+			<description> Noticias de la primera liga española de futbol </description>
+		</item>
 </feed>
